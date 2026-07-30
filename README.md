@@ -17,8 +17,16 @@ This repository documents my cybersecurity learning journey, including course no
 
 Google Cybersecurity Professional Certificate (Coursera)
 
-- Course 1: Foundations of Cybersecurity ✅
-- Course 2: Play It Safe: Manage Security Risks ✅
+## Progress
+
+- ✅ Course 1 – Foundations of Cybersecurity
+- ✅ Course 2 – Play It Safe: Manage Security Risks
+- ✅ Course 3 – Connect and Protect: Networks and Network Security
+- ⏳ Course 4 – Tools of the Trade: Linux and SQL
+- ⏳ Course 5 – Assets, Threats, and Vulnerabilities
+- ⏳ Course 6 – Sound the Alarm: Detection and Response
+- ⏳ Course 7 – Automate Cybersecurity Tasks with Python
+- ⏳ Course 8 – Put It to Work: Prepare for Cybersecurity Jobs
 
 ## Projects
 
